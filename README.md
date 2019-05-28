@@ -1,6 +1,6 @@
 # Lecture Code for Co-enhance
 
-This repository contains code for lectures given on AI.
+This repository contains code for lectures given on AI. (Japanese)
 
 ## Prerequisites
 Nothing! Just run this code in Google Colaboratory.
